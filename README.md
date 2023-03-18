@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Abdul Ali Noori
 
-### ✨ I am Abdul Ali Noori ✨
+### ✨  ✨
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
