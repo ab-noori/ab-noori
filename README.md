@@ -1,4 +1,4 @@
-### Hi there 👋 I am Abdul Ali Noori
+# Hi, I'm Abdulali! 👋
 
 ### ✨  ✨
 
