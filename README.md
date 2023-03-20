@@ -34,10 +34,10 @@ const abdulAliNoori = {
 <div align="center">
   <br>
   <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jeffersonrpm&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ab-noori&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
   </a>
   <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonRPM&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab-noori&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
   </a>
 </div> 
    
@@ -102,7 +102,7 @@ const abdulAliNoori = {
   
 <div> 
   <p align="center">
-    <a href="https://www.linkedin.com/in/jeffersonrpm/"><img title="linkedin.com/in/jeffersonrpm" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <a href="https://www.linkedin.com/in/abdul-ali-noori-384b85195/"><img title="linkedin.com/in/jeffersonrpm" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   </p>
 </div>
