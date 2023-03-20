@@ -11,6 +11,21 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+### ✨About Me✨
+```javascript
+const abdulAliNoori = {
+  country: "Afghanistan",
+  pronouns: ["she", "her"],
+  lookingFor: "Front-end developer" || "Full-stack web developer",
+  code: [PHP, JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
+          Tailwind CSS, Material UI],
+  challenge: "I am honing my tecnical and professnional skills at Microverse",
+  funFacts: ['I have a computer science background and 5+ years of 
+              professional and communication skills at NSIA and the Afghanistan embassy
+              in a foreign country', 'I am able to making software solutions for small businesses']
+}
+```
+
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 </a>
