@@ -20,13 +20,13 @@
 ```javascript
 const abdulAliNoori = {
   country: "Afghanistan",
-  pronouns: ["she", "her"],
+  pronouns: ["He", "Him"],
   lookingFor: "Front-end developer" || "Full-stack web developer",
   code: [PHP, JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
           Tailwind CSS, Material UI],
   challenge: "I am honing my tecnical and professnional skills at Microverse",
   funFacts: ['I have a computer science background and 5+ years of 
-              professional and communication skills at NSIA and the Afghanistan embassy
+              professional and communication skills experience at NSIA and the Afghanistan embassy
               in a foreign country', 'I am able to making software solutions for small businesses']
 }
 ```
