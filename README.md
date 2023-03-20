@@ -45,6 +45,10 @@ const abdulAliNoori = {
     <img height="190rem" width="35%" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab-noori&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
   </a>
 </div> 
+
+<div align="center">
+  <img height="190rem" src="https://github-readme-streak-stats.herokuapp.com/?user=ab-noori&theme=vue-dark&bg_color=0d1117&hide_border=true" alt="ab-noori" />
+</div>
    
 <br>
 <br>
