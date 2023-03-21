@@ -37,17 +37,16 @@ const abdulAliNoori = {
   
 ## ✨ GitHub Stats
 <div align="center">
-  <br>
   <a>
-    <img height="190rem" width="41.5%" src="https://github-readme-stats.vercel.app/api?username=ab-noori&show_icons=true&locale=en&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true" alt="ab-noori" />
+    <img height="250rem" width="45.5%" src="https://github-readme-stats.vercel.app/api?username=ab-noori&show_icons=true&locale=en&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true" alt="ab-noori" />
   </a>
   
   <a>
-    <img height="190rem" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-noori&show_icons=true&locale=en&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true" alt="ab-noori" />
+    <img height="250rem" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-noori&show_icons=true&locale=en&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true" alt="ab-noori" />
   </a>
   
   <a align="center">
-    <img height="190rem" width="50%" 
+    <img height="250rem" width="50%" 
          src="https://github-readme-streak-stats.herokuapp.com/?user=ab-noori&theme=vue-dark&bg_color=0d1117&hide_border=true" 
          alt="ab-noori" />
   </a>
