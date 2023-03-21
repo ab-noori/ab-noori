@@ -145,7 +145,8 @@ const abdulAliNoori = {
   
 <div> 
   <p align="center">
-    <a href="https://www.linkedin.com/in/abdul-ali-noori-384b85195/"><img title="linkedin.com/in/jeffersonrpm" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <a href="https://www.linkedin.com/in/abdul-ali-noori-384b85195/">
+      <img title="linkedin.com/in/jeffersonrpm" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   </p>
 </div>
@@ -154,4 +155,4 @@ const abdulAliNoori = {
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 </a>
 
-![Snake animation](https://github.com/JeffersonRPM/JeffersonRPM/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/JeffersonRPM/JeffersonRPM/blob/output/github-contribution-grid-snake.svg) -->
