@@ -48,7 +48,7 @@ const abdulAliNoori = {
 </div> 
 
 <div align="center">
-  <img height="190rem" src="https://github-readme-streak-stats.herokuapp.com/?user=ab-noori&theme=vue-dark&bg_color=0d1117&hide_border=true" alt="ab-noori" />
+  <img height="190rem" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ab-noori&theme=vue-dark&bg_color=0d1117&hide_border=true" alt="ab-noori" />
 </div>
    
 <br>
