@@ -38,11 +38,12 @@ const abdulAliNoori = {
 ## ✨ GitHub Stats
 <div align="center">
   <br>
-  <a href="#">
-    <img height="190rem" width="40%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ab-noori&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
+  <a>
+    <img height="190rem" width="41.5%" src="https://github-readme-stats.vercel.app/api?username=ab-noori&show_icons=true&locale=en&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true" alt="ab-noori" />
   </a>
-  <a href="#">
-    <img height="190rem" width="35%" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab-noori&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
+  
+  <a>
+    <img height="190rem" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-noori&show_icons=true&locale=en&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true" alt="ab-noori" />
   </a>
 </div> 
 
