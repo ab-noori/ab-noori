@@ -23,7 +23,7 @@
 const abdulAliNoori = {
   country: "Afghanistan",
   pronouns: ["He", "Him"],
-  status: "open to new opportunities"
+  status: "open to new opportunities",
   lookingFor: "Front-end developer" || "Full-stack web developer",
   code: [PHP, JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
           Tailwind CSS, Material UI],
