@@ -58,8 +58,6 @@ const abdulAliNoori = {
   
 ## ✨ Languages and Tools
 <br>
-<br>
-  
 <div> 
   <p align="center">
     <a href="https://skillicons.dev">
