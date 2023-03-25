@@ -154,7 +154,7 @@ const abdulAliNoori = {
       <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,figma,ps,jest,ruby,rails" />
     </a>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,githubactions,php,java,react,redux" />
+      <img src="https://skillicons.dev/icons?i=git,github,githubactions,php,java,react,redux,postgres,postman,tailwind,nodejs" />
     </a>
   </p>
 </div>
