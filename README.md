@@ -25,7 +25,7 @@ const abdulAliNoori = {
   pronouns: ["He", "Him"],
   status: "open to new opportunities",
   lookingFor: "Front-end developer" || "Full-stack web developer",
-  code: [PHP, JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
+  code: [Java, PHP, JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
           Tailwind CSS, Material UI],
   challenge: "I am honing my tecnical and professnional skills at Microverse",
   funFacts: ['I have a computer science background and 5+ years of 
