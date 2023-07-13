@@ -27,10 +27,10 @@ const abdulAliNoori = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   code: [Java, PHP, JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
           Tailwind CSS, Material UI],
-  challenge: "I am honing my tecnical and professnional skills at Microverse",
+  challenge: "I am honing my technical and professional skills at Microverse",
   funFacts: ['I have a computer science background and 5+ years of 
               professional and communication skills experience at NSIA and the Afghanistan embassy
-              in a foreign country', 'I am able to making software solutions for small businesses']
+              in a foreign country. ', 'I am able to make software solutions for small businesses. ']
 }
 ```
   <br>
