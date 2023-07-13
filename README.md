@@ -43,7 +43,7 @@ const abdulAliNoori = {
   </a>
   
   <a>
-    <img width="45.5%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-noori&show_icons=true&locale=en&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true" alt="ab-noori" />
+    <img width="45.5%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-noori&show_icons=true&locale=en&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true" alt="ab-noori" />
   </a>
   
   <a>
