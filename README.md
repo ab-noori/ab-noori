@@ -39,12 +39,14 @@ const abdulAliNoori = {
 <br>
 <div align="center">
   <img  width="45%" src="https://github-readme-stats.vercel.app/api?username=ab-noori&show_icons=true&locale=en&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true" alt="ab-noori" />
-  <img  width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=ab-noori&theme=vue-dark&bg_color=0d1117&hide_border=true" alt="ab-noori" />
+  <img  width="47.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ab-noori&theme=vue-dark&bg_color=0d1117&hide_border=true" alt="ab-noori" />
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-noori&show_icons=true&locale=en&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true" alt="ab-noori" />
 </div>
-  
+<br>
+<br>
+
 ## ✨ Languages and Tools
 <br>
 <div> 
