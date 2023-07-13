@@ -37,24 +37,13 @@ const abdulAliNoori = {
   
 ## ✨ GitHub Stats
 <br>
-<div align="center" style="display: grid; grid-template-rows: auto; grid-gap: 10px;">
-  <div style="display: flex; justify-content: center;">
-    <a style="flex: 1; margin-right: 10px;">
-      <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ab-noori&show_icons=true&locale=en&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true" alt="ab-noori" />
-    </a>
-    <a style="flex: 1; margin-left: 10px;">
-      <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-noori&show_icons=true&locale=en&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true" alt="ab-noori" />
-    </a>
-  </div>
-  
-  <div style="display: flex; justify-content: center;">
-    <a style="flex: 1;">
-      <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ab-noori&theme=vue-dark&bg_color=0d1117&hide_border=true" alt="ab-noori" />
-    </a>
-  </div>
+<div align="center">
+  <img  width="45%" src="https://github-readme-stats.vercel.app/api?username=ab-noori&show_icons=true&locale=en&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true" alt="ab-noori" />
+  <img  width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=ab-noori&theme=vue-dark&bg_color=0d1117&hide_border=true" alt="ab-noori" />
 </div>
-<br>
-<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-noori&show_icons=true&locale=en&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true" alt="ab-noori" />
+</div>
   
 ## ✨ Languages and Tools
 <br>
