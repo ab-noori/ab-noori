@@ -37,7 +37,7 @@ const abdulAliNoori = {
   
 ## ✨ GitHub Stats
 <br>
-<div align="center">
+<div align="center" width="100%">
   <div align="center" width="100%" >
     <a>
       <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ab-noori&show_icons=true&locale=en&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true" alt="ab-noori" />
