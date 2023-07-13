@@ -39,11 +39,11 @@ const abdulAliNoori = {
 <br>
 <div align="center">
   <div align="center" width="100%" >
-    <a width="40.5%">
+    <a>
       <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ab-noori&show_icons=true&locale=en&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true" alt="ab-noori" />
     </a>
   
-  <a width="40.5%">
+  <a>
     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-noori&show_icons=true&locale=en&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true" alt="ab-noori" />
   </a>
   </div>  
