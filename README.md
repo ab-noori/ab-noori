@@ -19,30 +19,38 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ab-noori&label=Profile%20views&color=0e75b6&style=flat" alt="ab-noori" /> </p>
 
 ## ✨About Me
-```javascript
-const abdulAliNoori = {
-  country: "Afghanistan",
-  pronouns: ["He", "Him"],
-  status: "open to new opportunities",
-  lookingFor: "Front-end developer" || "Full-stack web developer",
-  code: [Java, PHP, JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
-          Tailwind CSS, Material UI],
-  challenge: "I am honing my technical and professional skills at Microverse",
-  funFacts: ['I have a computer science background and 5+ years of 
-              professional and communication skills experience at NSIA and the Afghanistan embassy
-              in a foreign country. ', 'I am able to make software solutions for small businesses. ']
-}
-```
-  <br>
+<br>
+
+  ```javascript
+  const abdulAliNoori = {
+    country: "Afghanistan",
+    pronouns: ["He", "Him"],
+    status: "open to new opportunities",
+    lookingFor: "Front-end developer" || "Full-stack web developer",
+    code: [Java, PHP, JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
+            Tailwind CSS, Material UI],
+    challenge: "I am honing my technical and professional skills at Microverse",
+    funFacts: ['I have a computer science background and 5+ years of 
+                professional and communication skills experience at NSIA and the Afghanistan embassy
+                in a foreign country. ', 'I am able to make software solutions for small businesses. ']
+  }
+  ```
+<br>
   
 ## ✨ GitHub Stats
 <br>
 <div align="center">
-  <img  width="45%" src="https://github-readme-stats.vercel.app/api?username=ab-noori&show_icons=true&locale=en&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true" alt="ab-noori" />
-  <img  width="47.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ab-noori&theme=vue-dark&bg_color=0d1117&hide_border=true" alt="ab-noori" />
+  <img  width="45%" 
+    src="https://github-readme-stats.vercel.app/api?username=ab-noori&show_icons=true&locale=en&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true" 
+    alt="ab-noori" 
+  />
+  <img  width="47.5%" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ab-noori&theme=vue-dark&bg_color=0d1117&hide_border=true" 
+    alt="ab-noori" 
+  />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-noori&show_icons=true&locale=en&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true" alt="ab-noori" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-noori&show_icons=true&locale=en&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"   alt="ab-noori" />
 </div>
 <br>
 <br>
