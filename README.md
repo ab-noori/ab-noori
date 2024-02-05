@@ -69,7 +69,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdul-ali-noori-384b85195/">
+  <a href="https://www.linkedin.com/in/abdulali-noori/">
     <img title="linkedin.com/in/jeffersonrpm" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
