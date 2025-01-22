@@ -44,9 +44,9 @@
     src="https://github-readme-stats.vercel.app/api?username=ab-noori&show_icons=true&locale=en&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true" 
     alt="ab-noori" 
   />
-  <img  width="47.5%" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ab-noori&theme=vue-dark&bg_color=0d1117&hide_border=true" 
-    alt="ab-noori" 
+  <img width="47.5%" 
+    src="https://streak-stats.demolab.com?user=ab-noori&theme=vue-dark&hide_border=true" 
+    alt="GitHub Streak" 
   />
 </div>
 <div align="center">
