@@ -17,7 +17,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Abdulali;I'm+a+Full+Stack+Developer;I'm+from+Afghanistan;ツ+Be+Welcome!+ツ)
 
 ## ✨About Me
-<br>
 <p align="right">
   <a href="https://www.linkedin.com/in/abdulali-noori/">
     <img title="linkedin.com/in/jeffersonrpm" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -35,14 +34,28 @@
     challenge: "I am honing my technical and professional skills at Microverse.",
     funFacts: ['I have a computer science background and 5+ years of 
                 professional and communication skills experience at NSIA and the Afghanistan Embassy
-                in a foreign country. I can make software solutions for small businesses. ']
+                in a foreign country. I can make software solutions for small businesses.']
   }
   ```
 <br>
+
+## ✨ Project Categories
+### Ruby & Rails
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 10px;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=EduPlanner-Backend&theme=kacho_ga" 
+    alt="EduPlanner Backend Repo" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=EduPlanner-Backend&theme=kacho_ga" 
+    alt="EduPlanner Backend Repo" 
+  />
+</div>
+<br>
+<br>
   
 ## ✨ GitHub Stats
-<br>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; background-color: #0d1117; padding: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 10px;">
   <img style="width: 100%; height: 200px; display: block; margin: 0 auto;"
     src="https://streak-stats.demolab.com?user=ab-noori&theme=vue-dark&hide_border=true&background=0D1117&count_private=true&cache_seconds=21600" 
     alt="ab-noori streak stats" 
