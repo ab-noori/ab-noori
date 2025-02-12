@@ -43,27 +43,27 @@
 ### Ruby & Rails
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 10px;">
   <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=EduPlanner-Backend&theme=ambient" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=EduPlanner-Backend&theme=vue-dark" 
     alt="EduPlanner Backend Repo" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Finance-Tracker&theme=kacho_ga" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Finance-Tracker&theme=vue-dark" 
     alt="Finance Tracker Repo" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Budget-App&theme=ambient" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Budget-App&theme=vue-dark" 
     alt="Budget App Repo" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Blog-App&theme=kacho_ga" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Blog-App&theme=vue-dark" 
     alt="Blog App Repo" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=School-Library&theme=ambient" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=School-Library&theme=vue-dark" 
     alt="School Library Repo" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Enumerable&theme=kacho_ga" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Enumerable&theme=vue-dark" 
     alt="Enumerable Repo" 
   />
 </div>
