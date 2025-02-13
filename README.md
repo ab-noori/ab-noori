@@ -59,6 +59,10 @@
     alt="Blog App Repo" 
   />
   <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Search-Analytics-Backend&theme=vue-dark" 
+    alt="Search Analytics Backend Repo" 
+  />
+  <img 
     src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=School-Library&theme=vue-dark" 
     alt="School Library Repo" 
   />
