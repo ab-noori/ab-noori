@@ -1,15 +1,3 @@
-
-<!-- ### ✨  ✨
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 </a>
@@ -27,14 +15,32 @@
   const abdulAliNoori = {
     country: "Afghanistan",
     pronouns: ["He", "Him"],
-    status: "open to new opportunities",
-    looking for: "Front-end developer" || "Full-stack web developer",
-    code: [JavaScript, TypeScript, React, Redux, Next, Ruby, Ruby on Rails,
-               PHP, HTML/CSS, Semantic UI, Bootstrap, Tailwind CSS, Material UI],
-    challenge: "I am honing my technical and professional skills at Microverse.",
-    funFacts: ['I have a computer science background and 5+ years of 
-                professional and communication skills experience at NSIA and the Afghanistan Embassy
-                in a foreign country. I can make software solutions for small businesses.']
+    status: "Open to new opportunities",
+    lookingFor: ["Front-end Developer", "Full-stack Web Developer"],
+    education: {
+      degree: "Bachelor's in Computer Science from Herat University",
+      certification: "Full Stack Web Development Certificate from Microverse (1 year)"
+    },
+    experience: {
+      dataAndStatistics: "4+ years",
+      softwareDevelopment: "2+ years"
+    },
+    code: [
+      "JavaScript", "TypeScript", "React", "Redux", "Next.js", "RTK Query",
+      "Ruby", "Ruby on Rails", "PHP", "HTML/CSS", "Tailwind CSS", "Bootstrap",
+      "Material UI"
+    ],
+    tools: [
+      "Git", "GitHub", "RSpec", "Jest", "PostgreSQL", "MySQL", "Netlify",
+      "ElectronJS", "Postman", "Figma", "Chrome DevTools"
+    ],
+    challenge: "Currently leading frontend and UI/UX at AAK Tele-Science, while refining full-stack skills through hands-on projects and collaboration.",
+    funFacts: [
+      "I hold a Computer Science degree and a full-time certification in full-stack web development from Microverse.",
+      "I have over 4 years of experience in data and statistics, and over 2 years in professional software development.",
+      "I enjoy building practical software solutions that improve real-world workflows.",
+      "I’ve mentored junior developers through Microverse and love collaborating globally."
+    ]
   }
   ```
 <br>
