@@ -75,16 +75,18 @@
       alt="Blog App Repo" 
     />
   </a>
-  <a href="https://github.com/ab-noori/"></a>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Search-Analytics-Backend&theme=vue-dark" 
-    alt="Search Analytics Backend Repo" 
-  />
-  <a href="https://github.com/ab-noori/"></a>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=School-Library&theme=vue-dark" 
-    alt="School Library Repo" 
-  />
+  <a href="https://github.com/ab-noori/Search-Analytics-Backend">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Search-Analytics-Backend&theme=vue-dark" 
+      alt="Search Analytics Backend Repo" 
+    />
+  </a>
+  <a href="https://github.com/ab-noori/School-Library">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=School-Library&theme=vue-dark" 
+      alt="School Library Repo" 
+    />
+  </a>
   <a href="https://github.com/ab-noori/"></a>
   <img 
     src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Enumerable&theme=vue-dark" 
