@@ -51,30 +51,39 @@
 ## ✨ Project Categories
 ### Ruby & Rails
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; padding: 10px;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=EduPlanner-Backend&theme=vue-dark" 
-    alt="EduPlanner Backend Repo" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Finance-Tracker&theme=vue-dark" 
-    alt="Finance Tracker Repo" 
-  />
+  <a href="https://github.com/ab-noori/EduPlanner-Backend">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=EduPlanner-Backend&theme=vue-dark" 
+      alt="EduPlanner Backend Repo" 
+    />
+  </a>
+  <a href="https://github.com/ab-noori/Finance-Tracker">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Finance-Tracker&theme=vue-dark" 
+      alt="Finance Tracker Repo" 
+    />
+  </a>
+  <a href="https://github.com/ab-noori/"></a>
   <img 
     src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Budget-App&theme=vue-dark" 
     alt="Budget App Repo" 
   />
+  <a href="https://github.com/ab-noori/"></a>
   <img 
     src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Blog-App&theme=vue-dark" 
     alt="Blog App Repo" 
   />
+  <a href="https://github.com/ab-noori/"></a>
   <img 
     src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Search-Analytics-Backend&theme=vue-dark" 
     alt="Search Analytics Backend Repo" 
   />
+  <a href="https://github.com/ab-noori/"></a>
   <img 
     src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=School-Library&theme=vue-dark" 
     alt="School Library Repo" 
   />
+  <a href="https://github.com/ab-noori/"></a>
   <img 
     src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Enumerable&theme=vue-dark" 
     alt="Enumerable Repo" 
