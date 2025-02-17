@@ -11,7 +11,7 @@
   </a>
 </p>
 
-  ```javascript
+```javascript
   const abdulAliNoori = {
     country: "Afghanistan",
     pronouns: ["He", "Him"],
@@ -19,7 +19,7 @@
     lookingFor: ["Front-end Developer", "Full-stack Web Developer"],
     education: {
       degree: "Bachelor's in Computer Science from Herat University",
-      certification: "Full Stack Web Development Certificate from Microverse (1 year)"
+      certification: "Full Stack Web Development Certificate from Microverse (Full-time, 1300+ hours over 10 months)"
     },
     experience: {
       dataAndStatistics: "4+ years",
@@ -34,15 +34,17 @@
       "Git", "GitHub", "RSpec", "Jest", "PostgreSQL", "MySQL", "Netlify",
       "ElectronJS", "Postman", "Figma", "Chrome DevTools"
     ],
-    challenge: "Currently leading frontend and UI/UX at AAK Tele-Science, while refining full-stack skills through hands-on projects and collaboration.",
+    challenge:
+      "As a Frontend Developer and UI/UX Co-Lead at AAK Tele-Science, I lead my team, develop UI components,\n" +
+      "gather user feedback via support channels, and convert them into actionable tasks for my team, practicing agile development.",
     funFacts: [
-      "I hold a Computer Science degree and a full-time certification in full-stack web development from Microverse.",
+      "I hold a Computer Science degree and completed a 10-month full-time (1300+ hours) remote certification at Microverse.",
       "I have over 4 years of experience in data and statistics, and over 2 years in professional software development.",
       "I enjoy building practical software solutions that improve real-world workflows.",
       "I’ve mentored junior developers through Microverse and love collaborating globally."
     ]
   }
-  ```
+```
 <br>
 
 ## ✨ Project Categories
