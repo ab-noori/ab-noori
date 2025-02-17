@@ -84,7 +84,7 @@
 <br>
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; padding: 10px;">
   <img style="width: 100%; height: 200px; display: block; margin: 0 auto;"
-    src="https://streak-stats.demolab.com?user=ab-noori&theme=vue-dark&hide_border=true&background=0D1117&count_private=true&cache_seconds=21600" 
+    src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ab-noori&theme=vue-dark&hide_border=true&background=0D1117&count_private=true&cache_seconds=21600"
     alt="ab-noori streak stats" 
   />
   <img style="width: 100%; height: 200px; display: block; margin: 0 auto;"
