@@ -63,16 +63,18 @@
       alt="Finance Tracker Repo" 
     />
   </a>
-  <a href="https://github.com/ab-noori/"></a>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Budget-App&theme=vue-dark" 
-    alt="Budget App Repo" 
-  />
-  <a href="https://github.com/ab-noori/"></a>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Blog-App&theme=vue-dark" 
-    alt="Blog App Repo" 
-  />
+  <a href="https://github.com/ab-noori/Budget-App">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Budget-App&theme=vue-dark" 
+      alt="Budget App Repo" 
+    />
+  </a>
+  <a href="https://github.com/ab-noori/Blog-App">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Blog-App&theme=vue-dark" 
+      alt="Blog App Repo" 
+    />
+  </a>
   <a href="https://github.com/ab-noori/"></a>
   <img 
     src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Search-Analytics-Backend&theme=vue-dark" 
