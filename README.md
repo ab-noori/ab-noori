@@ -46,8 +46,6 @@
     ]
   }
 ```
-<br>
-  
 ## ✨ GitHub Stats
 <br>
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 5px; padding: 10px;">
@@ -66,7 +64,6 @@
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ab-noori&label=Profile%20views&color=0e75b6&style=flat" alt="ab-noori" /> </p>
-<br>
 
 ## ✨ Project Categories
 ### Ruby & Rails
@@ -114,7 +111,6 @@
     />
   </a>
 </div>
-<br>
 
 ## ✨ Languages and Tools
 <br>
