@@ -114,6 +114,14 @@
 
 ## ✨ Languages and Tools
 <div align="center">
+  <h3>Backend</h3>
+  <a href="https://www.ruby-lang.org/" title="Ruby: Dynamic, object-oriented language"><img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" /></a>
+  <a href="https://rubyonrails.org/" title="Ruby on Rails: Full-stack web framework"><img src="https://skillicons.dev/icons?i=rails" alt="Rails" /></a>
+  <a href="https://www.postgresql.org/" title="PostgreSQL: Open-source relational database"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+  <a href="https://www.mysql.com/" title="MySQL: Popular relational database system"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+</div>
+
+<div align="center">
   <h3>Frontend</h3>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML: Structure for web content"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS: Styling for web pages"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
@@ -125,20 +133,6 @@
   <a href="https://react.dev/" title="React: JavaScript library for UI components"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
   <a href="https://redux.js.org/" title="Redux: State management for JavaScript apps"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" /></a>
   <a href="https://nextjs.org/" title="Next.js: React framework for server-side rendering"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
-</div>
-
-<div align="center">
-  <h3>Backend</h3>
-  <a href="https://www.ruby-lang.org/" title="Ruby: Dynamic, object-oriented language"><img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" /></a>
-  <a href="https://rubyonrails.org/" title="Ruby on Rails: Full-stack web framework"><img src="https://skillicons.dev/icons?i=rails" alt="Rails" /></a>
-  <a href="https://www.php.net/" title="PHP: Server-side scripting language"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
-  <a href="https://nodejs.org/" title="Node.js: JavaScript runtime for server-side apps"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
-</div>
-
-<div align="center">
-  <h3>Databases</h3>
-  <a href="https://www.postgresql.org/" title="PostgreSQL: Open-source relational database"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
-  <a href="https://www.mysql.com/" title="MySQL: Popular relational database system"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
 </div>
 
 <div align="center">
