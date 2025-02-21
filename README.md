@@ -113,16 +113,49 @@
 </div>
 
 ## ✨ Languages and Tools
-<br>
-<div> 
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,figma,ps,jest,ruby,rails" />
-    </a>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,githubactions,php,java,react,redux,postgres,postman,tailwind,nodejs" />
-    </a>
-  </p>
+<div align="center">
+  <h3>Frontend</h3>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML: Structure for web content"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS: Styling for web pages"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+  <a href="https://sass-lang.com/" title="Sass: CSS preprocessor for enhanced styling"><img src="https://skillicons.dev/icons?i=sass" alt="Sass" /></a>
+  <a href="https://tailwindcss.com/" title="Tailwind CSS: Utility-first CSS framework"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
+  <a href="https://getbootstrap.com/" title="Bootstrap: CSS framework for responsive design"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
+  <a href="https://javascript.info/" title="JavaScript: Dynamic scripting language"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript: JavaScript with static types"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+  <a href="https://react.dev/" title="React: JavaScript library for UI components"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://redux.js.org/" title="Redux: State management for JavaScript apps"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" /></a>
+  <a href="https://nextjs.org/" title="Next.js: React framework for server-side rendering"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
+</div>
+
+<div align="center">
+  <h3>Backend</h3>
+  <a href="https://www.ruby-lang.org/" title="Ruby: Dynamic, object-oriented language"><img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" /></a>
+  <a href="https://rubyonrails.org/" title="Ruby on Rails: Full-stack web framework"><img src="https://skillicons.dev/icons?i=rails" alt="Rails" /></a>
+  <a href="https://www.php.net/" title="PHP: Server-side scripting language"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
+  <a href="https://nodejs.org/" title="Node.js: JavaScript runtime for server-side apps"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+</div>
+
+<div align="center">
+  <h3>Databases</h3>
+  <a href="https://www.postgresql.org/" title="PostgreSQL: Open-source relational database"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+  <a href="https://www.mysql.com/" title="MySQL: Popular relational database system"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+</div>
+
+<div align="center">
+  <h3>Tools & Testing</h3>
+  <a href="https://git-scm.com/" title="Git: Version control system"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://github.com/" title="GitHub: Platform for code hosting and collaboration"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://www.figma.com/" title="Figma: Collaborative design and prototyping tool"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
+  <a href="https://www.postman.com/" title="Postman: API testing and development tool"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
+  <a href="https://jestjs.io/" title="Jest: JavaScript testing framework"><img src="https://skillicons.dev/icons?i=jest" alt="Jest" /></a>
+  <a href="https://rspec.info/" title="RSpec: Testing framework for Ruby"><img src="https://raw.githubusercontent.com/ab-noori/ab-noori/main/assets/RSpec.png" alt="RSpec" height="48" /></a>
+  <a href="https://www.electronjs.org/" title="ElectronJS: Framework for cross-platform desktop apps"><img src="https://skillicons.dev/icons?i=electron" alt="ElectronJS" /></a>
+</div>
+
+<div align="center">
+  <h3>DevOps & Deployment</h3>
+  <a href="https://www.netlify.com/" title="Netlify: Platform for web deployment and hosting"><img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" /></a>
+  <a href="https://www.docker.com/" title="Docker: Containerization platform"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
 </div>
 
 <a href="#">
