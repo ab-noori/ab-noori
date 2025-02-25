@@ -154,6 +154,24 @@
 
 ### React
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; padding: 10px;">
+  <a href="https://github.com/ab-noori/Population-Funnel-Chart">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Population-Funnel-Chart&theme=vue-dark" 
+      alt="Population Funnel Chart" 
+    />
+  </a>
+  <a href="https://github.com/ab-noori/EduPlanner-Frontend">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=EduPlanner-Frontend&theme=vue-dark" 
+      alt="EduPlanner Frontend" 
+    />
+  </a>
+  <a href="https://github.com/ab-noori/bookstore-cms">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=bookstore-cms&theme=vue-dark" 
+      alt="Book Store CMS" 
+    />
+  </a>  
 </dvi>
 
 ### Vanila JS
