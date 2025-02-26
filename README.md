@@ -46,7 +46,7 @@
     ]
   }
 ```
-## ✨ GitHub Stats
+## ✨GitHub Stats
 <br>
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 5px; padding: 10px;">
   <img style="width: 100%; height: 200px; display: block; margin: 0 auto;"
@@ -65,7 +65,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ab-noori&label=Profile%20views&color=0e75b6&style=flat" alt="ab-noori" /> </p>
 
-## ✨ Languages and Tools
+## ✨Languages and Tools
 <div align="center">
   <h3>Backend</h3>
   <a href="https://www.ruby-lang.org/" title="Ruby: Dynamic, object-oriented language"><img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" /></a>
@@ -105,7 +105,7 @@
   <a href="https://www.docker.com/" title="Docker: Containerization platform"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
 </div>
 
-## ✨ Project Categories
+## ✨Project Categories
 ### Ruby & Rails
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; padding: 10px;">
   <a href="https://github.com/ab-noori/EduPlanner-Backend">
