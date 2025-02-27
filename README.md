@@ -70,6 +70,7 @@
   <h3>Backend</h3>
   <a href="https://www.ruby-lang.org/" title="Ruby: Dynamic, object-oriented language"><img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" /></a>
   <a href="https://rubyonrails.org/" title="Ruby on Rails: Full-stack web framework"><img src="https://skillicons.dev/icons?i=rails" alt="Rails" /></a>
+  <a href="https://www.php.net/" title="PHP: Popular general-purpose scripting language"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
   <a href="https://www.postgresql.org/" title="PostgreSQL: Open-source relational database"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
   <a href="https://www.mysql.com/" title="MySQL: Popular relational database system"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
 </div>
