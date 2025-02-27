@@ -171,11 +171,41 @@
       src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=bookstore-cms&theme=vue-dark" 
       alt="Book Store CMS" 
     />
-  </a>  
+  </a>
+  <a href="https://github.com/ab-noori/Cryptopanel">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Cryptopanel&theme=vue-dark" 
+      alt="Cryptopanel" 
+    />
+  </a>
+  <a href="https://github.com/ab-noori/react-todo-app">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=react-todo-app&theme=vue-dark" 
+      alt="React Todo App" 
+    />
+  </a>
+  <a href="https://github.com/ab-noori/bookstore">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=bookstore&theme=vue-dark" 
+      alt="Book Store" 
+    />
+  </a>
+  <a href="https://github.com/ab-noori/math_magicians">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=math_magicians&theme=vue-dark" 
+      alt="Math Magicians" 
+    />
+  </a>
 </dvi>
 
 ### Vanila JS
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; padding: 10px;">
+  <a href="https://github.com/ab-noori/bookstore-cms">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=bookstore-cms&theme=vue-dark" 
+      alt="Book Store CMS" 
+    />
+  </a>
 </dvi>
 
 ### HTML & CSS
