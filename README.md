@@ -13,6 +13,7 @@
 
 ## ✨ About Me <a href="https://www.linkedin.com/in/abdulali-noori/"><img title="linkedin.com/in/abdulali-noori" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="right"></a>
 
+<br>
 
 ```javascript
   const abdulaliNoori = {
