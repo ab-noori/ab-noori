@@ -4,13 +4,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Abdulali;I'm+a+Full+Stack+Developer;I'm+from+Afghanistan;ツ+Be+Welcome!+ツ)
 
-<!-- ## ✨About Me
-<p align="right">
-  <a href="https://www.linkedin.com/in/abdulali-noori/">
-    <img title="linkedin.com/in/jeffersonrpm" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p> -->
-
 ## ✨ About Me <a href="https://www.linkedin.com/in/abdulali-noori/"><img title="linkedin.com/in/abdulali-noori" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="right"></a>
 
 <br>
