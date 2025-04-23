@@ -40,15 +40,16 @@
 ## ✨ GitHub Stats
 <br>
 <div align="center">
-  <img  width="45%" 
+  <img width="43%" style="height:auto;"
     src="https://github-readme-stats.vercel.app/api?username=ab-noori&show_icons=true&locale=en&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true" 
     alt="ab-noori" 
   />
-  <img width="47.5%" 
-    src="https://streak-stats.demolab.com?user=ab-noori&theme=vue-dark&hide_border=true" 
-    alt="GitHub Streak" 
+  <img width="45%" style="height:auto;"
+    src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ab-noori&theme=vue-dark&hide_border=true&background=0D1117&count_private=true" 
+    alt="ab-noori streak stats" 
   />
 </div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-noori&show_icons=true&locale=en&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"   alt="ab-noori" />
 </div>
