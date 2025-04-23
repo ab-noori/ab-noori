@@ -39,12 +39,12 @@
   
 ## ✨ GitHub Stats
 <br>
-<div align="center">
-  <img width="43%" style="height:auto;"
+<div style="display: flex; align-items: center; justify-content: center; gap: 1%; background-color: #0d1117;">
+  <img width="43.5%" style="height: 200px;"
     src="https://github-readme-stats.vercel.app/api?username=ab-noori&show_icons=true&locale=en&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true" 
     alt="ab-noori" 
   />
-  <img width="45%" style="height:auto;"
+  <img width="45.5%" style="height: 200px;"
     src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ab-noori&theme=vue-dark&hide_border=true&background=0D1117&count_private=true" 
     alt="ab-noori streak stats" 
   />
