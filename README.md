@@ -26,13 +26,13 @@
     country: "Afghanistan",
     pronouns: ["He", "Him"],
     status: "open to new opportunities",
-    lookingFor: "Front-end developer" || "Full-stack web developer",
-    code: [Java, PHP, JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
-            Tailwind CSS, Material UI],
+    looking for: "Front-end developer" || "Full-stack web developer",
+    code: [JavaScript, TypeScript, React, Redux, Next, Ruby, Ruby on Rails,
+               PHP, HTML/CSS, Semantic UI, Bootstrap, Tailwind CSS, Material UI],
     challenge: "I am honing my technical and professional skills at Microverse",
     funFacts: ['I have a computer science background and 5+ years of 
-                professional and communication skills experience at NSIA and the Afghanistan embassy
-                in a foreign country. ', 'I am able to make software solutions for small businesses. ']
+                professional and communication skills experience at NSIA and the Afghanistan Embassy
+                in a foreign country. I can make software solutions for small businesses. ']
   }
   ```
 <br>
