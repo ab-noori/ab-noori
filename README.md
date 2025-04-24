@@ -29,7 +29,7 @@
     looking for: "Front-end developer" || "Full-stack web developer",
     code: [JavaScript, TypeScript, React, Redux, Next, Ruby, Ruby on Rails,
                PHP, HTML/CSS, Semantic UI, Bootstrap, Tailwind CSS, Material UI],
-    challenge: "I am honing my technical and professional skills at Microverse",
+    challenge: "I am honing my technical and professional skills at Microverse.",
     funFacts: ['I have a computer science background and 5+ years of 
                 professional and communication skills experience at NSIA and the Afghanistan Embassy
                 in a foreign country. I can make software solutions for small businesses. ']
@@ -39,19 +39,22 @@
   
 ## ✨ GitHub Stats
 <br>
-<div style="display: flex; align-items: center; justify-content: center; gap: 1%; background-color: #0d1117;">
-  <img width="43.5%" style="height: 200px;"
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; background-color: #0d1117; padding: 10px;">
+  <img style="flex: 0 1 45%; max-width: 45%; height: 200px; display: block; margin: 0 auto;"
     src="https://github-readme-stats.vercel.app/api?username=ab-noori&show_icons=true&locale=en&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true" 
-    alt="ab-noori" 
+    alt="ab-noori stats" 
   />
-  <img width="45.5%" style="height: 200px;"
+  <img style="flex: 0 1 45%; max-width: 45%; height: 200px; display: block; margin: 0 auto;"
     src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ab-noori&theme=vue-dark&hide_border=true&background=0D1117&count_private=true" 
     alt="ab-noori streak stats" 
   />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-noori&show_icons=true&locale=en&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"   alt="ab-noori" />
+<div style="display: flex; justify-content: center; background-color: #0d1117; padding: 10px;">
+  <img style="width: 100%; max-width: 500px; height: 200px; display: block; margin: 0 auto;"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-noori&show_icons=true&locale=en&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true" 
+    alt="ab-noori top languages" 
+  />
 </div>
 <br>
 <br>
@@ -77,5 +80,3 @@
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 </a>
-
-<!-- ![Snake animation](https://github.com/JeffersonRPM/JeffersonRPM/blob/output/github-contribution-grid-snake.svg) -->
