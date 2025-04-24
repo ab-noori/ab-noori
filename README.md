@@ -14,12 +14,15 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Abdul+Ali;I'm+from+Afghanistan;I'm+a+Full+Stack+Developer;ツ+Be+Welcome!+ツ)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ab-noori&label=Profile%20views&color=0e75b6&style=flat" alt="ab-noori" /> </p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Abdulali;I'm+a+Full+Stack+Developer;I'm+from+Afghanistan;ツ+Be+Welcome!+ツ)
 
 ## ✨About Me
 <br>
+<p align="right">
+  <a href="https://www.linkedin.com/in/abdulali-noori/">
+    <img title="linkedin.com/in/jeffersonrpm" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
   ```javascript
   const abdulAliNoori = {
@@ -54,6 +57,7 @@
   />
 </div>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ab-noori&label=Profile%20views&color=0e75b6&style=flat" alt="ab-noori" /> </p>
 <br>
 <br>
 
@@ -70,11 +74,6 @@
   </p>
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdulali-noori/">
-    <img title="linkedin.com/in/jeffersonrpm" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 </a>
