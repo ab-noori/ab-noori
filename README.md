@@ -44,7 +44,7 @@
     src="https://github-readme-stats.vercel.app/api?username=ab-noori&show_icons=true&locale=en&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true" 
     alt="ab-noori stats" 
   />
-  <img style="flex: 0 1 45%; max-width: 45%; height: 200px; display: block; margin: 0 auto;"
+  <img style="flex: 0 1 42%; max-width: 42%; height: 200px; display: block; margin: 0 auto;"
     src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ab-noori&theme=vue-dark&hide_border=true&background=0D1117&count_private=true" 
     alt="ab-noori streak stats" 
   />
