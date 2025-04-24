@@ -40,19 +40,16 @@
 ## ✨ GitHub Stats
 <br>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; background-color: #0d1117; padding: 10px;">
-  <img style="flex: 0 1 45%; max-width: 45%; height: 200px; display: block; margin: 0 auto;"
-    src="https://github-readme-stats.vercel.app/api?username=ab-noori&show_icons=true&locale=en&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true" 
-    alt="ab-noori stats" 
-  />
-  <img style="flex: 0 1 42%; max-width: 42%; height: 200px; display: block; margin: 0 auto;"
-    src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ab-noori&theme=vue-dark&hide_border=true&background=0D1117&count_private=true" 
+  <img style="width: 100%; height: 200px; display: block; margin: 0 auto;"
+    src="https://streak-stats.demolab.com?user=ab-noori&theme=vue-dark&hide_border=true&background=0D1117&count_private=true&cache_seconds=21600" 
     alt="ab-noori streak stats" 
   />
-</div>
-
-<div style="display: flex; justify-content: center; background-color: #0d1117; padding: 10px;">
-  <img style="width: 100%; max-width: 500px; height: 200px; display: block; margin: 0 auto;"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-noori&show_icons=true&locale=en&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true" 
+  <img style="width: 100%; height: 200px; display: block; margin: 0 auto;"
+    src="https://github-readme-stats.vercel.app/api?username=ab-noori&show_icons=true&locale=en&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true&cache_seconds=21600" 
+    alt="ab-noori stats" 
+  />
+  <img style="width: 100%; height: 200px; display: block; margin: 0 auto;"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-noori&show_icons=true&locale=en&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true&cache_seconds=21600" 
     alt="ab-noori top languages" 
   />
 </div>
