@@ -85,17 +85,17 @@
   
 ## ✨ GitHub Stats
 <br>
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; padding: 10px;">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 5px; padding: 10px;">
   <img style="width: 100%; height: 200px; display: block; margin: 0 auto;"
     src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ab-noori&theme=vue-dark&background=273849&count_private=true&cache_seconds=21600"
     alt="ab-noori streak stats" 
   />
   <img style="width: 100%; height: 200px; display: block; margin: 0 auto;"
-    src="https://github-readme-stats.vercel.app/api?username=ab-noori&show_icons=true&locale=en&theme=vue-dark&count_private=true&bg_color=273849&cache_seconds=21600" 
+    src="https://github-readme-stats.vercel.app/api?username=ab-noori&theme=vue-dark&count_private=true&bg_color=273849&cache_seconds=21600" 
     alt="ab-noori stats" 
   />
   <img style="width: 100%; height: 200px; display: block; margin: 0 auto;"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-noori&show_icons=true&locale=en&layout=compact&theme=vue-dark&bg_color=273849&cache_seconds=21600" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-noori&layout=compact&theme=vue-dark&bg_color=273849&cache_seconds=21600" 
     alt="ab-noori top languages" 
   />
 </div>
