@@ -41,13 +41,13 @@
 
 ## ✨ Project Categories
 ### Ruby & Rails
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 10px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 10px;">
   <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=EduPlanner-Backend&theme=kacho_ga" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=EduPlanner-Backend&theme=vue-dark" 
     alt="EduPlanner Backend Repo" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=EduPlanner-Backend&theme=kacho_ga" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=EduPlanner-Backend&theme=vue-dark" 
     alt="EduPlanner Backend Repo" 
   />
 </div>
@@ -57,15 +57,15 @@
 ## ✨ GitHub Stats
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 10px;">
   <img style="width: 100%; height: 200px; display: block; margin: 0 auto;"
-    src="https://streak-stats.demolab.com?user=ab-noori&theme=vue-dark&hide_border=true&background=0D1117&count_private=true&cache_seconds=21600" 
+    src="https://streak-stats.demolab.com?user=ab-noori&theme=vue-dark&hide_border=true&background=273849&count_private=true&cache_seconds=21600" 
     alt="ab-noori streak stats" 
   />
   <img style="width: 100%; height: 200px; display: block; margin: 0 auto;"
-    src="https://github-readme-stats.vercel.app/api?username=ab-noori&show_icons=true&locale=en&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true&cache_seconds=21600" 
+    src="https://github-readme-stats.vercel.app/api?username=ab-noori&show_icons=true&locale=en&theme=vue-dark&count_private=true&bg_color=273849&hide_border=true&cache_seconds=21600" 
     alt="ab-noori stats" 
   />
   <img style="width: 100%; height: 200px; display: block; margin: 0 auto;"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-noori&show_icons=true&locale=en&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true&cache_seconds=21600" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-noori&show_icons=true&locale=en&layout=compact&theme=vue-dark&bg_color=273849&hide_border=true&cache_seconds=21600" 
     alt="ab-noori top languages" 
   />
 </div>
