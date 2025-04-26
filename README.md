@@ -178,12 +178,6 @@
       alt="Cryptopanel" 
     />
   </a>
-  <a href="https://github.com/ab-noori/react-todo-app">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=react-todo-app&theme=vue-dark" 
-      alt="React Todo App" 
-    />
-  </a>
   <a href="https://github.com/ab-noori/bookstore">
     <img 
       src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=bookstore&theme=vue-dark" 
@@ -194,6 +188,12 @@
     <img 
       src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=math_magicians&theme=vue-dark" 
       alt="Math Magicians" 
+    />
+  </a>
+  <a href="https://github.com/ab-noori/react-todo-app">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=react-todo-app&theme=vue-dark" 
+      alt="React Todo App" 
     />
   </a>
 </dvi>
