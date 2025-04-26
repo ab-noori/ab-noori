@@ -196,21 +196,21 @@
       alt="React Todo App" 
     />
   </a>
-</dvi>
+</div>
 
 ### Vanila JS
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; padding: 10px;">
-  <a href="https://github.com/ab-noori/bookstore-cms">
+  <a href="https://github.com/ab-noori/Webpack-Joke-App">
     <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=bookstore-cms&theme=vue-dark" 
-      alt="Book Store CMS" 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Webpack-Joke-App&theme=vue-dark" 
+      alt="Webpack Joke App" 
     />
   </a>
-</dvi>
+</div>
 
 ### HTML & CSS
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; padding: 10px;">
-</dvi>
+</div>
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
