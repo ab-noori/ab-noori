@@ -106,7 +106,7 @@
 </div>
 
 ## ✨Project Categories
-### Ruby & Rails
+### 1️⃣ Ruby & Rails
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; padding: 10px;">
   <a href="https://github.com/ab-noori/EduPlanner-Backend">
     <img 
@@ -152,7 +152,7 @@
   </a>
 </div>
 
-### React
+### 2️⃣ React
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; padding: 10px;">
   <a href="https://github.com/ab-noori/Population-Funnel-Chart">
     <img 
@@ -198,7 +198,7 @@
   </a>
 </div>
 
-### Vanila JS
+### 3️⃣ Vanila JS
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; padding: 10px;">
   <a href="https://github.com/ab-noori/Webpack-Joke-App">
     <img 
@@ -220,7 +220,7 @@
   </a>
 </div>
 
-### HTML & CSS
+### 4️⃣ HTML & CSS
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; padding: 10px;">
   <a href="https://github.com/ab-noori/SalsalDevGroupp">
     <img 
