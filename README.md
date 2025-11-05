@@ -36,7 +36,7 @@
       "gather user feedback via support channels, and convert them into actionable tasks for my team, practicing agile development.",
     funFacts: [
       "I hold a Computer Science degree and completed a 10-month full-time (1300+ hours) remote certification at Microverse.",
-      "I have over 4 years of experience in data and statistics, and over 2 years in professional software development.",
+      "I have over 4 years of experience in data and statistics, and over 3 years in professional software development.",
       "I enjoy building practical software solutions that improve real-world workflows.",
       "I have mentored junior developers through Microverse and love collaborating globally.",
       "I have practiced leadership through leading my team at AAK Tele-Science."
