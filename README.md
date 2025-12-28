@@ -19,7 +19,7 @@
       certification: "Full Stack Web Development Certificate from Microverse (Full-time, 1300+ hours over 10 months)"
     },
     experience: {
-      softwareDevelopment: "2+ years",
+      softwareDevelopment: "4+ years",
       dataAndStatistics: "4+ years"
     },
     code: [
