@@ -55,7 +55,7 @@
     alt="ab-noori stats" 
   />
   <img style="width: 100%; height: 200px; display: block; margin: 0 auto;"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-noori&layout=compact&theme=vue-dark&bg_color=273849&cache_seconds=21600" 
+    src="https://abnoori-github-readme-stats.vercel.app/api/top-langs?username=ab-noori&layout=compact&theme=vue-dark&bg_color=273849&cache_seconds=21600" 
     alt="ab-noori top languages" 
   />
 </div>
