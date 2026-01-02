@@ -114,7 +114,7 @@
   </a>
   <a href="https://github.com/ab-noori/Finance-Tracker">
     <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Finance-Tracker&theme=vue-dark" 
+      src="https://abnoori-github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Finance-Tracker&theme=vue-dark" 
       alt="Finance Tracker Repo" 
     />
   </a>
