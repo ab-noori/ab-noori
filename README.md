@@ -120,7 +120,7 @@
   </a>
   <a href="https://github.com/ab-noori/Budget-App">
     <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Budget-App&theme=vue-dark" 
+      src="https://abnoori-github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Budget-App&theme=vue-dark" 
       alt="Budget App Repo" 
     />
   </a>
