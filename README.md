@@ -138,7 +138,7 @@
   </a>
   <a href="https://github.com/ab-noori/School-Library">
     <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=School-Library&theme=vue-dark" 
+      src="https://abnoori-github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=School-Library&theme=vue-dark" 
       alt="School Library Repo" 
     />
   </a>
