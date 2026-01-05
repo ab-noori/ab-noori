@@ -132,7 +132,7 @@
   </a>
   <a href="https://github.com/ab-noori/Search-Analytics-Backend">
     <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Search-Analytics-Backend&theme=vue-dark" 
+      src="https://abnoori-github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Search-Analytics-Backend&theme=vue-dark" 
       alt="Search Analytics Backend Repo" 
     />
   </a>
