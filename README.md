@@ -144,7 +144,7 @@
   </a>
   <a href="https://github.com/ab-noori/Enumerable">
     <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Enumerable&theme=vue-dark" 
+      src="https://abnoori-github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Enumerable&theme=vue-dark" 
       alt="Enumerable Repo" 
     />
   </a>
