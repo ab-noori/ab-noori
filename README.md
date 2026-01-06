@@ -160,7 +160,7 @@
   </a>
   <a href="https://github.com/ab-noori/EduPlanner-Frontend">
     <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=EduPlanner-Frontend&theme=vue-dark" 
+      src="https://abnoori-github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=EduPlanner-Frontend&theme=vue-dark" 
       alt="EduPlanner Frontend" 
     />
   </a>
