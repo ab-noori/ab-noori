@@ -166,7 +166,7 @@
   </a>
   <a href="https://github.com/ab-noori/bookstore-cms">
     <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=bookstore-cms&theme=vue-dark" 
+      src="https://abnoori-github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=bookstore-cms&theme=vue-dark" 
       alt="Book Store CMS" 
     />
   </a>
