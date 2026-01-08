@@ -184,7 +184,7 @@
   </a>
   <a href="https://github.com/ab-noori/math_magicians">
     <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=math_magicians&theme=vue-dark" 
+      src="https://abnoori-github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=math_magicians&theme=vue-dark" 
       alt="Math Magicians" 
     />
   </a>
