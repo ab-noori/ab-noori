@@ -172,7 +172,7 @@
   </a>
   <a href="https://github.com/ab-noori/Cryptopanel">
     <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Cryptopanel&theme=vue-dark" 
+      src="https://abnoori-github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Cryptopanel&theme=vue-dark" 
       alt="Cryptopanel" 
     />
   </a>
