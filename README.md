@@ -190,7 +190,7 @@
   </a>
   <a href="https://github.com/ab-noori/react-todo-app">
     <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=react-todo-app&theme=vue-dark" 
+      src="https://abnoori-github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=react-todo-app&theme=vue-dark" 
       alt="React Todo App" 
     />
   </a>
