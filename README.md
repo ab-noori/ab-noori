@@ -212,7 +212,7 @@
   </a>
   <a href="https://github.com/ab-noori/OnlineBookStore">
     <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=OnlineBookStore&theme=vue-dark" 
+      src="https://abnoori-github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=OnlineBookStore&theme=vue-dark" 
       alt="Online Book Store" 
     />
   </a>
