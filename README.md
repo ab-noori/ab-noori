@@ -228,7 +228,7 @@
   </a>
   <a href="https://github.com/ab-noori/Portfolio">
     <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Portfolio&theme=vue-dark" 
+      src="https://abnoori-github-readme-stats.vercel.app/api/pin/?username=ab-noori&repo=Portfolio&theme=vue-dark" 
       alt="Portfolio" 
     />
   </a>
